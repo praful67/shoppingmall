@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c1f6d8558456a0ee070a72cec5bc8fa",
+    "revision": "75a1556e6cf4c10d0923156f52b52128",
     "url": "/shoppingmall/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppingmall/static/css/4.5125fc78.chunk.css"
   },
   {
-    "revision": "304e8fd5385af00329e9",
+    "revision": "20fe398d66343faf154d",
     "url": "/shoppingmall/static/css/5.a437ac7a.chunk.css"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppingmall/static/js/4.da6a2dc8.chunk.js.LICENSE"
   },
   {
-    "revision": "304e8fd5385af00329e9",
-    "url": "/shoppingmall/static/js/5.8bcd7164.chunk.js"
+    "revision": "20fe398d66343faf154d",
+    "url": "/shoppingmall/static/js/5.f641096f.chunk.js"
   },
   {
     "revision": "f1d6fa84dd1ce8668841",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppingmall/static/js/main.3546f2f1.chunk.js"
   },
   {
-    "revision": "7d4b433ec666f63eb8b7",
-    "url": "/shoppingmall/static/js/runtime-main.68024283.js"
+    "revision": "5a898d51e53cb7eb814e",
+    "url": "/shoppingmall/static/js/runtime-main.47d35592.js"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
